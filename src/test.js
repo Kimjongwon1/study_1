@@ -9,3 +9,5 @@ console.log(result);  // "Hello, world!" (포함됨)
 
 const result2 = checkAndReplace(inputStr, "planet", "리다");
 console.log(result2);  // "***" (포함되지 않음)
+
+//test
